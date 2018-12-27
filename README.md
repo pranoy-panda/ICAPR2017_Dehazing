@@ -7,6 +7,7 @@
 Haze limits the visibility of outdoor images, due to the existence of fog, smoke and dust in the atmosphere. In this work, we present an end to end system, which takes a hazy image as its input and returns a dehazed image. The proposed method learns the mapping between a hazy image and its corresponding transmittance map and the environmental illumination, by using a multi-scale Convolutional Neural Network. This repository contains a python implementation of the same.
 
 - Authors: [Sanchayan Santra](http://san-santra.github.io/),[Ranjan Mondal](https://www.isical.ac.in/~ranjan15_r/),[Pranoy Panda](http://pranoy-panda.github.io/), Nishant Mohanty, Shubham Bhuyan
+- Paper : [https://arxiv.org/abs/1812.01273](https://arxiv.org/pdf/1812.01273.pdf)
 
 ## Requirements:
 1. Python 2.7+ or 3.5+.
