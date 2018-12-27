@@ -39,7 +39,7 @@ $ python src/final_assembly/Final_code.py results/mountain_input.png
 
 ## License and Citation
 
-This program is released under the LGPL.
+This software is released under the LGPL.
 
 Please cite our paper in your publications if it helps your research:
 ```
