@@ -21,19 +21,19 @@ Haze limits the visibility of outdoor images, due to the existence of fog, smoke
 ### Most important for using the proposed dehazing network in a new project:
 1. [Final_code.py](src/final_assembly/Final_code.py)
 2. [network.py](src/cnn_network/network.py)
-3. [model.h5](model/weights.h5)
+3. [weights.h5](model/weights.h5)
 ### Most important for (re)training the proposed dehazing network on new data:
 1. [preprocess.py](src/data_generation/preprocess.py)
 2. [helper_functions.py](src/data_generation/helper_functions.py)
 
 ## Running the program
-'''bash
+```bash
 $ python src/final_assembly/Final_code.py [path/to/hazzy_image]
-'''
+```
 For example, running on the mountain image
-'''bash
+```bash
 $ python src/final_assembly/Final_code.py results/mountain_input.png
-'''
+```
 
 ## License and Citation
 
