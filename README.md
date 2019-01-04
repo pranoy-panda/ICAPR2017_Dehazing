@@ -43,11 +43,13 @@ This software is released under the LGPL.
 
 Please cite our paper in your publications if it helps your research:
 ```
-@article{santra2018image,
+@inproceedings{santra2017image,
   title={Image Dehazing via Joint Estimation of Transmittance Map and Environmental Illumination},
   author={Santra, Sanchayan and Mondal, Ranjan and Panda, Pranoy and Mohanty, Nishant and Bhuyan, Shubham},
-  journal={arXiv preprint arXiv:1812.01273},
-  year={2018}
+  booktitle={2017 Ninth International Conference on Advances in Pattern Recognition (ICAPR)},
+  pages={1--6},
+  year={2017},
+  organization={IEEE}
 }
 ```
 
